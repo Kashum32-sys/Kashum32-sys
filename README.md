@@ -16,8 +16,18 @@ SOCIAL INFORMATION
 EXAMPLES OF WORKS
 
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
+from simpleicons.icons import si_simpleicons
+from simpleicons.image import icon_to_image
+
+xml_bytes = si_simpleicons.get_xml_bytes(fill="blue")
+
+# black background and 5x scale
+img = icon_to_image(xml_bytes, bg=0x000000, scale=(5, 5))
+
+# manipulate PIL Image
+img.putalpha(32)
+img.save("simpleicons_blue.png")
 
 
 
