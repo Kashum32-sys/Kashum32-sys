@@ -14,28 +14,3 @@ SOCIAL INFORMATION
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kashum32-sys)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kashum32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Kashum32/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kashum32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCjWcGlZRruRWHwjzJxtx6MQ)  
 
 EXAMPLES OF WORKS
-
-
-
-from simpleicons.icons import si_simpleicons
-from simpleicons.image import icon_to_image
-
-xml_bytes = si_simpleicons.get_xml_bytes(fill="blue")
-
-# black background and 5x scale
-img = icon_to_image(xml_bytes, bg=0x000000, scale=(5, 5))
-
-# manipulate PIL Image
-img.putalpha(32)
-img.save("simpleicons_blue.png")
-
-
-
-
-
-
-
-
-
-
-
