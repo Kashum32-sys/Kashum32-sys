@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi,I'm Kashum 👋
 
-<!--
-**Kashum32-sys/Kashum32-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kashum from Srilanka, and I do content on Design and Development. I really enjoy learning languages and frameworks like Python and Numpy,Pandas,matplotlib, any more.., as well as work in Jupyter notbook and Visual studio. I also enjoy data science,maching learning,AI,web developing and design in general. You can check out my twitter at https://twitter.com/home
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
